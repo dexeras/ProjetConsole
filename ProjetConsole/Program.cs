@@ -284,6 +284,8 @@ Je suis une formation                   celle-ci est en c#";//la mise en forme e
 
             //maintenir la console active
             Console.ReadLine();
+
+            //authentification OK
             
         }
     }
